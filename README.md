@@ -1,2 +1,5 @@
-# moderasyon
-Moderasyon Botu V12 Guard &amp; Moderasyon
+# Çalınması Yasaktır
+
+- Çalan Kodır Dil Anlamışşsen?
+
+- tamam
